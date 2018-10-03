@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "tp11",
+  "main": "ej11.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "LucasRiveros",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
